@@ -1,36 +1,6 @@
 YYKit
 ==============
-
-[![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://raw.githubusercontent.com/ibireme/YYKit/master/LICENSE)&nbsp;
-[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)&nbsp;
-[![CocoaPods](http://img.shields.io/cocoapods/v/YYKit.svg?style=flat)](http://cocoapods.org/pods/YYKit)&nbsp;
-[![CocoaPods](http://img.shields.io/cocoapods/p/YYKit.svg?style=flat)](http://cocoadocs.org/docsets/YYKit)&nbsp;
-[![Support](https://img.shields.io/badge/support-iOS%206%2B%20-blue.svg?style=flat)](https://www.apple.com/nl/ios/)&nbsp;
-[![Build Status](https://travis-ci.org/ibireme/YYKit.svg?branch=master)](https://travis-ci.org/ibireme/YYKit)
-
-
-YYKit is a collection of iOS components.
-
-It's so huge that I split it into several independent components:
-
-* [YYModel](https://github.com/ibireme/YYModel) — High performance model framework for iOS.
-* [YYCache](https://github.com/ibireme/YYCache) — High performance cache framework for iOS.
-* [YYImage](https://github.com/ibireme/YYImage) — Image framework for iOS to display/encode/decode animated WebP, APNG, GIF.
-* [YYWebImage](https://github.com/ibireme/YYWebImage) — Asynchronous image loading framework.
-* [YYText](https://github.com/ibireme/YYText) — Powerful rich text component for iOS.
-* [YYKeyboardManager](https://github.com/ibireme/YYKeyboardManager) — Access keyboard view and track keyboard animation.
-* [YYDispatchQueuePool](https://github.com/ibireme/YYDispatchQueuePool) — iOS utility class to manage global dispatch queue.
-* [YYAsyncLayer](https://github.com/ibireme/YYAsyncLayer) — iOS utility classes for asynchronous rendering and display.
-* [YYCategories](https://github.com/ibireme/YYCategories) — A set of useful categories for Foundation and UIKit.
-
-
-Demo Project
-==============
-See `Demo/YYKitDemo.xcodeproj`
-
-<img src="https://raw.github.com/ibireme/YYKit/master/Demo/Snapshots/twitter.png" width="320"><br/>
-<img src="https://raw.github.com/ibireme/YYKit/master/Demo/Snapshots/weibo.png" width="320"> <img src="https://raw.github.com/ibireme/YYKit/master/Demo/Snapshots/weibo_compose.png" width="320">
-
+适配iOS17 YYLable 导致闪退
 
 Installation
 ==============
