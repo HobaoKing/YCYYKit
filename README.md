@@ -8,34 +8,8 @@ Installation
 ### CocoaPods
 
 1. Add `pod 'YYKit'` to your Podfile.
-2.  
-3. Run `pod 'YCYYKit', :git=>'https://github.com/HobaoKing/YCYYKit.git'` or `pod update`.
-4. Import \<YYKit/YYKit.h\>.
-
-
-
-### Manually
-
-1. Download all the files in the `YYKit` subdirectory.
-2. Add the source files to your Xcode project.
-3. Add `-fno-objc-arc` compiler flag to `NSObject+YYAddForARC.m` and `NSThread+YYAdd.m`.
-4. Link with required frameworks:
-    * UIKit
-    * CoreFoundation
-    * CoreText
-    * CoreGraphics
-    * CoreImage
-    * QuartzCore
-    * ImageIO
-    * AssetsLibrary
-    * Accelerate
-    * MobileCoreServices
-    * SystemConfiguration
-    * sqlite3
-    * libz
-5. Add `Vendor/WebP.framework`(static library) to your Xcode project if you want to support WebP.
-6. Import `YYKit.h`.
-
+2. Run `pod 'YCYYKit', :git=>'https://github.com/HobaoKing/YCYYKit.git'` or `pod update`.
+3. Import \<YYKit/YYKit.h\>.
 
 Documentation
 ==============
