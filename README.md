@@ -38,16 +38,11 @@ Installation
 ### CocoaPods
 
 1. Add `pod 'YYKit'` to your Podfile.
-2. Run `pod install` or `pod update`.
-3. Import \<YYKit/YYKit.h\>.
+2.  
+3. Run `pod 'YCYYKit', :git=>'https://github.com/HobaoKing/YCYYKit.git'` or `pod update`.
+4. Import \<YYKit/YYKit.h\>.
 
 
-### Carthage
-
-1. Add `github "ibireme/YYKit"` to your Cartfile.
-2. Run `carthage update --platform ios` and add the framework to your project.
-3. Import \<YYKit/YYKit.h\>.
-4. Notice: carthage framework doesn't include webp component, if you want to support webp, use CocoaPods or install manually.
 
 ### Manually
 
