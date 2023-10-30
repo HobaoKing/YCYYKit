@@ -1,6 +1,6 @@
 YYKit
 ==============
-适配iOS17 YYLable 导致闪退
+适配iOS17 
 
 Installation
 ==============
