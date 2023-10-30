@@ -1,6 +1,6 @@
 YYKit
 ==============
-适配iOS17 
+YYKit 适配iOS17 (仅自用)
 
 Installation
 ==============
